@@ -1,0 +1,16 @@
+#num = input("number \n")
+#print(int(num) + 10)
+
+#name1 = input('Ваше имя \n')
+#print(f'Привет, {name1}! Как дела?')
+
+first1 = float('1')
+first2 = int(float('2.5'))
+first3 = bool(1)
+first4 = bool("")
+first5 = bool(0)
+print(float(first1))
+print(int(first2))
+print(bool(first3))
+print(bool(first4))
+print(bool(first5))
